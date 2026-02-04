@@ -1,12 +1,12 @@
-🩺 Breast Cancer Prediction Web App
+# 🩺 Breast Cancer Prediction Web App
 
 This is a Machine Learning based web application that predicts whether a breast tumor is Benign or Malignant based on user input features.
 The model is trained using a breast cancer dataset and deployed using Flask.
 
-🌐 Live Demo:
+## 🌐 Live Demo:
 👉 https://breast-cancer-tqzm.onrender.com
 
-🚀 Features
+## 🚀 Features
 
 User-friendly web interface
 
@@ -19,7 +19,7 @@ Flask backend
 Deployed online using Render
 
 
-🧠 Machine Learning Model
+## 🧠 Machine Learning Model
 
 Algorithm used: (you can edit this if needed, e.g. Logistic Regression / Random Forest / SVM)
 
@@ -28,7 +28,7 @@ Dataset: Breast Cancer Dataset
 Model saved using pickle as model.pkl
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python
 
@@ -45,21 +45,28 @@ HTML / CSS
 Render (Deployment)
 
 
-📁 Project Structure
+## 📁 Project Structure
 
 
 Breast-Cancer/
 │
 ├── app.py
+
 ├── model.pkl
+
 ├── requirements.txt
+
 ├── templates/
+
 │     └── index.html
+
 └── static/
+
       └── (images/css files)
+      
 
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 Add charts and visualizations
 
@@ -72,8 +79,7 @@ Add database support
 Add authentication
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Tamal Kar
-Computer Science Student
-Machine Learning & Data Science Enthusiast
+
